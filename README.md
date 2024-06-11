@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hey moças e rapazes como estão 👩‍🦲
 
 
-**maxineteiw/maxineteiw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é maxine seong
 
-Here are some ideas to get you started:
+ - estou estudando via alura.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+    então meu perfil vai ser bem o que eles ensinam 
 
+  - estou me desenvolvenfo no javascript.
+    
+       confesso não ter entendido muito alem de que devo sempre fecher a chave para o codigo funcionar, espero compartilhar projetos por aqui
+
+## pode me contatar pelo e-mail 📫
+
+00001094030922sp@al.educacao.sp.gov.br
+
+ @salesvitoriadejesus
+
+
+![](https://tenor.com/b1IbK.gif)
