@@ -17,5 +17,5 @@ meu nome é maxine seong
 
  @salesvitoriadejesus
 
+![image](https://github.com/maxineteiw/maxineteiw/assets/172446977/719c5f99-5f68-4cef-85d3-3251577716ad)
 
-![](https://tenor.com/b1IbK.gif)
